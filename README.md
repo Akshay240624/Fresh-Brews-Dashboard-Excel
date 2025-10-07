@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard
+# Coffee Sales Dashboard - starbucks coffee 
 ![Starbucks  Coffee Banner (4)](https://richmondbizsense.com/wp-content/uploads/2021/07/7.19R-Starbucks1.png)
 
 ## Overview : 
