@@ -42,5 +42,5 @@ Access the Dashboard: Open the main Excel file (Fresh Brews Dashboard.xlsx - ass
 Review the Data: The various CSV files provide the underlying summary data if you wish to replicate the analysis or perform further exploration in Python, R, or other BI tools.
 
 ## Dashboard :
-<img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
+![Dashboard](https://github.com/Akshay240624/Fresh-Brews-Dashboard-Excel/blob/main/Fresh%20Brews%20Dashboard.png)
 
