@@ -35,7 +35,7 @@ CSV Files: Exported data tables for easy sharing and integration into other anal
 
 Clone the repository:
 
-git clone ![](https://github.com/Akshay240624/Fresh-Brews-Dashboard-Excel)
+Dataset Access : 
 
 Access the Dashboard: Open the main Excel file (Fresh Brews Dashboard.xlsx - assumed to be the main file, though not uploaded as such) to view the interactive dashboard.
 
