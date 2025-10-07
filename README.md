@@ -1,5 +1,5 @@
 # Coffee Sales Dashboard
-![Starbucks  Coffee Banner (4)](https://www.loopnet.com/Listing/1000-S-Broad-St-Brooksville-FL/33536742/)
+![Starbucks  Coffee Banner (4)](https://richmondbizsense.com/wp-content/uploads/2021/07/7.19R-Starbucks1.png)
 
 ## Overview : 
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
